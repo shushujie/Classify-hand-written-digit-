@@ -1,0 +1,3 @@
+This project is to put together a simple image classification pipeline to classify hand-written digit 0 and 1, based on the logistic regression or the SVM classifier.
+
+To implement and solve linear Logistic Regression model and Linear SVM model (without regularization term) on MNIST dataset. In this task, I only perform binary classification on digit 0 and 1. The code start from data loading and iterations of training data. The training is done using PyTorch. The model is optimize  by using SGD and Momentum methods. 
